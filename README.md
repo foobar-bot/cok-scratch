@@ -1,2 +1,1 @@
-# cok-scratch
-test scratch
+perm test Tue Nov 24 00:53:03 UTC 2026
